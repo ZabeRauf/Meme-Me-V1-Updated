@@ -1,16 +1,18 @@
 {
-  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "ACFF5C44F20F5FBEDF92C868EDE76269FA09A581",
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "8F66AD0039F4BB0ECE377C565DA98523E1E71C65",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
 
   },
   "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
-    "ACFF5C44F20F5FBEDF92C868EDE76269FA09A581" : 9223372036854775807,
-    "8DE81DD0A54A767A54C27247A7F7709B032369EC" : 9223372036854775807
+    "8F66AD0039F4BB0ECE377C565DA98523E1E71C65" : 9223372036854775807,
+    "8DE81DD0A54A767A54C27247A7F7709B032369EC" : 9223372036854775807,
+    "ACFF5C44F20F5FBEDF92C868EDE76269FA09A581" : 9223372036854775807
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "EAE11319-96E4-413C-86FC-D49F6A978383",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
-    "ACFF5C44F20F5FBEDF92C868EDE76269FA09A581" : "Dank%20experiments\/",
-    "8DE81DD0A54A767A54C27247A7F7709B032369EC" : "Dank%20experiments\/Dank%20experiments\/"
+    "8F66AD0039F4BB0ECE377C565DA98523E1E71C65" : "Meme%20Me%20V1%20exp%20copy\/",
+    "8DE81DD0A54A767A54C27247A7F7709B032369EC" : "Meme%20Me%20V1%20exp%20copy\/Dank%20experiments\/",
+    "ACFF5C44F20F5FBEDF92C868EDE76269FA09A581" : "Dank%20experiments\/"
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "Dank experiments",
   "DVTSourceControlWorkspaceBlueprintVersion" : 204,
@@ -20,6 +22,11 @@
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ZabeRauf\/Meme-Me-V1.5.git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8DE81DD0A54A767A54C27247A7F7709B032369EC"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ZabeRauf\/Meme-Me-V1-Updated.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8F66AD0039F4BB0ECE377C565DA98523E1E71C65"
     },
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ZabeRauf\/Meme-Me-V1.6.git",
